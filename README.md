@@ -28,6 +28,9 @@ Prompts a word from the user and announces to the user if the given word is or i
 ## JumpIt.cpp
 A recursive implementation of the game of "Jump It". Returns the lowest cost of a game board represented and passed as an array.
 
+## LinkedListPayments.cpp
+Given a space delimited text file containing in the format of (Amount of Money Paid, First Name, Middle Name/Initial [Optional], Last Name), prints out a step-by-step list of instructions of how to reimburse everyone given the name of the person and the amount of money paid. Utilizes a Linked List for the solution.
+
 ## MoreEvenThanOdd.cpp
 Prompts the user to input a positive integer n, and prints all numbers from 1 to n that have nmore even digits than odd digits.
 
