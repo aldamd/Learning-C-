@@ -13,6 +13,12 @@ Prints a ‘pine tree’ consisting of triangles of increasing sizes, filled wit
 ## MoreEvenThanOdd.cpp
 Prompts the user to input a positive integer n, and prints all numbers from 1 to n that have nmore even digits than odd digits.
 
+## PerfectAmicableNumbers.cpp
+Prompts the user for a positive integer M (>= 2) and prints all the perfect numbers between 2 and M and all pairs of amicable numbers between 2 and M.
+
+## PrintDivisors.cpp
+Prompts the user for a positive integer (>= 2) and prints all its divisors.
+
 ## PrintHourglass.cpp
 Prompts the user for a positive integer n and prints a textual image of an hourglass made of 2n lines with asterisks.
 
