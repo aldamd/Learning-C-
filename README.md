@@ -1,2 +1,2 @@
-# Learning-C-
+# Learning C++
 Projects While Learning C++
