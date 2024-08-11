@@ -25,6 +25,9 @@ Four versions of a function getPosNums that gets an array of integers and its lo
 ## IsPalindrome.cpp
 Prompts a word from the user and announces to the user if the given word is or is not a palindrome.
 
+## JumpIt.cpp
+A recursive implementation of the game of "Jump It". Returns the lowest cost of a game board represented and passed as an array.
+
 ## MoreEvenThanOdd.cpp
 Prompts the user to input a positive integer n, and prints all numbers from 1 to n that have nmore even digits than odd digits.
 
@@ -42,6 +45,15 @@ Prompts the user for a positive integer n and prints a textual image of an hourg
 
 ## PrintMonthlyCalendar.cpp
 Prompts the user for an integer that represents a year and an integer that represents the day in the week of January 1st for that year (1 for Monday, 2 for Tuesday, etc.). Prints a formatted yearly calendar given the user input.
+
+## RecursiveMinInArray.cpp
+Two implementations of finding the minimum value of all elements of a given array.
+
+## RecursivePrints.cpp
+Three exercises in recursion, printing a triangle, inverted triangle, and a ruler.
+
+## RecursiveSumOfSquaresIsSorted.cpp
+Recursive implementations of sumOfSquares and isSorted methods that return the sum of the squares of each of the values in a given array and return true/false if the elements in a given array are sorted in an ascending order, respectively.
 
 ## ReverseArrayRemoveOddSplitParity.cpp
 Contains three methods:
