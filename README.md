@@ -37,6 +37,9 @@ Takes a static array of integers and its size. When called, reorders the element
 ## PerfectAmicableNumbers.cpp
 Prompts the user for a positive integer M (>= 2) and prints all the perfect numbers between 2 and M and all pairs of amicable numbers between 2 and M.
 
+## PredatorPrey.cpp
+A predator-prey simulation, effectively practicing C++ Object Oriented Programming (OOP).
+
 ## PrintDivisors.cpp
 Prompts the user for a positive integer (>= 2) and prints all its divisors.
 
