@@ -32,7 +32,7 @@ A recursive implementation of the game of "Jump It". Returns the lowest cost of 
 Given a space delimited text file containing in the format of (Amount of Money Paid, First Name, Middle Name/Initial [Optional], Last Name), prints out a step-by-step list of instructions of how to reimburse everyone given the name of the person and the amount of money paid. Utilizes a Linked List for the solution.
 
 ## MoreEvenThanOdd.cpp
-Prompts the user to input a positive integer n, and prints all numbers from 1 to n that have nmore even digits than odd digits.
+Prompts the user to input a positive integer n, and prints all numbers from 1 to n that have more even digits than odd digits.
 
 ## OddsKeepEvensFlip.cpp
 Takes a static array of integers and its size. When called, reorders the elements of the array so that: all the odd numbers come before all the even numbers; the odd numbers will keep their original relative order; the even numbers will be placed in a reversed order (relative to their original order).
